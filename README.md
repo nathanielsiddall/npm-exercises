@@ -1,4 +1,4 @@
-# this is a series of NPM projects
+# This is a series of NPM projects
 
-This is my first project using npm
-its going to be ugly so apologize in advance
+This is my first series of projects using npm js.
+utilizing Brew i downloaded node and npm. 
