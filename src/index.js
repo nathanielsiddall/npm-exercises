@@ -5,4 +5,16 @@ const sayHello =()=> {
 
 sayHello();
 
-$("#box").text("thingm");
+$("#box").text("thing");
+
+
+let  file = {
+    name: "bubba",
+    adress: "101 main",
+    id: "1234"
+}
+
+
+
+
+
