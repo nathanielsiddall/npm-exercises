@@ -1,6 +1,11 @@
+
+const hello = require('say-hello');
 const $ = require('jquery');
-const sayHello =()=> console.log("hello");
+const hi =()=> console.log("hello");
+hi();
 sayHello();
+
+
 
 $("#box").text("hello there");
 
